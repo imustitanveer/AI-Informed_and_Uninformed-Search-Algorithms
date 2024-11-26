@@ -44,7 +44,7 @@ Each script can be executed independently. Below are the general steps for runni
    ```
 2. Navigate to the project folder:
    ```bash
-   cd pathfinding-algorithms
+   cd AI-Informed_and_Uninformed-Search-Algorithms
    ```
 3. Run the desired script:
    ```bash
